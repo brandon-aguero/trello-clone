@@ -6,7 +6,7 @@ import { LegalLinksComponent } from '../../components/legal-links/legal-links.co
 import { NavigationLinksComponent } from '../../components/navigation-links/navigation-links.component';
 import { ProtectedSiteMessageComponent } from '../../components/protected-site-message/protected-site-message.component';
 import { SocialWrapperComponent } from '../../components/social-wrapper/social-wrapper.component';
-import { LayoutComponent } from '../layout/layout.component';
+import { LayoutComponent } from '../../../shared/layouts/auth-layout/auth-layout.component';
 import { SocialNetwork, NavigationLink, ErrorMessages } from '../../models';
 
 @Component({

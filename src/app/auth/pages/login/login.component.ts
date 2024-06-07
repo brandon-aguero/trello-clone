@@ -1,5 +1,5 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
-import { LayoutComponent } from '../layout/layout.component';
+import { LayoutComponent } from '../../../shared/layouts/auth-layout/auth-layout.component';
 import {
   ErrorMessages,
   LegalLink,

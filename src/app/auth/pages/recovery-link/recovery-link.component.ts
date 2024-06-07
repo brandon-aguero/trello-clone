@@ -5,7 +5,7 @@ import { HeaderComponent } from '../../components/header/header.component';
 import { LegalLinksComponent } from '../../components/legal-links/legal-links.component';
 import { NavigationLinksComponent } from '../../components/navigation-links/navigation-links.component';
 import { NavigationLink, ErrorMessages, LegalLink } from '../../models';
-import { LayoutComponent } from '../layout/layout.component';
+import { LayoutComponent } from '../../../shared/layouts/auth-layout/auth-layout.component';
 
 @Component({
   selector: 'app-recovery-link',
